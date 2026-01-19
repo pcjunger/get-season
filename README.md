@@ -1,2 +1,2 @@
 # get-season
-simple R script to obtain season based on coordinates and dates
+R functions to obtain season based on coordinates and dates in the northern and southern hemisphere
